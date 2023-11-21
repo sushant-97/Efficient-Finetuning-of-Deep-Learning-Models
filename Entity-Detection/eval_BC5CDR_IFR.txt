@@ -1,0 +1,166 @@
+# Subset using random samples from Isolation Forest
+Results for 10
+Precision : 89.18948165782923
+Recall : 86.9868073878628
+F1-Score : 88.07437486642445
+
+
+Results for 20
+Precision : 88.5643070787637
+Recall : 93.75197889182057
+F1-Score : 91.08433734939759
+
+
+Results for 30
+Precision : 91.32323339336794
+Recall : 90.97625329815303
+F1-Score : 91.14941313312889
+
+
+Results for 40
+Precision : 89.93288590604027
+Recall : 93.34036939313984
+F1-Score : 91.60495105909162
+
+
+Results for 50
+Precision : 89.74281695800683
+Recall : 94.27968337730871
+F1-Score : 91.9553245149004
+
+
+Results for 60
+Precision : 89.09915237532033
+Recall : 95.4089709762533
+F1-Score : 92.14616991998369
+
+
+Results for 70
+Precision : 90.99917423616846
+Recall : 93.04485488126649
+F1-Score : 92.01064551479413
+
+
+Results for 80
+Precision : 91.63987138263666
+Recall : 93.24538258575198
+F1-Score : 92.43565599497802
+
+
+Results for 90
+Precision : 90.2212344681281
+Recall : 94.25857519788919
+F1-Score : 92.19572623103129
+
+# Subset using border points
+
+Results for 10
+Precision : 88.98857203887643
+Recall : 87.93667546174142
+F1-Score : 88.45949676186432
+
+
+Results for 20
+Precision : 88.5643070787637
+Recall : 93.75197889182057
+F1-Score : 91.08433734939759
+
+
+Results for 30
+Precision : 90.32957950201467
+Recall : 92.27440633245382
+F1-Score : 91.29163621175734
+
+
+Results for 40
+Precision : 89.92053113368877
+Recall : 94.34300791556728
+F1-Score : 92.07869798104657
+
+
+Results for 50
+Precision : 89.70073065759183
+Recall : 94.58575197889182
+F1-Score : 92.0784958388986
+
+
+Results for 60
+Precision : 90.20395860544559
+Recall : 94.75461741424802
+F1-Score : 92.42330656784021
+
+
+Results for 70
+Precision : 90.11877432877533
+Recall : 95.29287598944592
+F1-Score : 92.63363086077769
+
+
+Results for 80
+Precision : 90.43399456248112
+Recall : 94.7862796833773
+F1-Score : 92.5590023704009
+
+
+Results for 90
+Precision : 90.2050567390006
+Recall : 95.64116094986808
+F1-Score : 92.843604323549
+
+
+# Subset using center points
+
+Results for 10
+Precision : 87.38019169329073
+Recall : 92.36939313984169
+F1-Score : 89.80555128007798
+
+
+Results for 20
+Precision : 88.5643070787637
+Recall : 93.75197889182057
+F1-Score : 91.08433734939759
+
+
+Results for 30
+Precision : 88.73058276442069
+Recall : 94.6490765171504
+F1-Score : 91.59432131549383
+
+
+Results for 40
+Precision : 89.40124573035966
+Recall : 93.92084432717678
+F1-Score : 91.60533223531834
+
+
+Results for 50
+Precision : 90.89473684210526
+Recall : 91.13456464379948
+F1-Score : 91.01449275362319
+
+
+Results for 60
+Precision : 88.79276445143532
+Recall : 95.3245382585752
+F1-Score : 91.942790247875
+
+
+Results for 70
+Precision : 89.96200759848031
+Recall : 94.96569920844328
+F1-Score : 92.3961595728295
+
+
+Results for 80
+Precision : 91.78864320564726
+Recall : 93.31926121372032
+F1-Score : 92.54762403181914
+
+
+Results for 90
+Precision : 91.50240016341537
+Recall : 94.55408970976254
+F1-Score : 93.00321810443268
+
+
